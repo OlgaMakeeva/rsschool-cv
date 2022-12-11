@@ -1,6 +1,6 @@
-Макеева Ольга
+#Макеева Ольга#
 
-e-mail: mos090730@gmail.com
+*e-mail: mos090730@gmail.com*
 
 I am interested in web development. I know how to make adaptive websites. I am an attentive, purposeful and responsible person, I like to learn new things. My goal is to learn javascript to make great websites.
 
